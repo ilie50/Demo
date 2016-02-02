@@ -8,6 +8,6 @@
 	<parent>
 		<groupId>org.demo</groupId>
 		<artifactId>DemoParent</artifactId>
-		<version>0.0.1</version>
+		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 </project>
