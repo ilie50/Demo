@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.demo</groupId>
 	<artifactId>DemoParent</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>Archetype - DemoParent</name>
 	<url>http://maven.apache.org</url>
@@ -28,8 +28,8 @@
 	</dependencyManagement>
 
 	<scm>
-		<developerConnection>scm:svn:https://github.com/ilie50/DemoParent/tree/master/DemoParent/tags/DemoParent-0.0.1</developerConnection>
-	</scm>
+		<developerConnection>scm:git:https://github.com/ilie50/DemoParent.git</developerConnection>
+  </scm>
 	<build>
 		<plugins>
 			<plugin>
