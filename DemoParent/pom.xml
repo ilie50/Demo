@@ -28,7 +28,7 @@
 	</dependencyManagement>
 
 	<scm>
-		<developerConnection>scm:svn:https://svn.mycompany.com/repos/myapplication/tags/DemoParent-0.0.1</developerConnection>
+		<developerConnection>scm:svn:https://github.com/ilie50/DemoParent/tree/master/DemoParent/tags/DemoParent-0.0.1</developerConnection>
 	</scm>
 	<build>
 		<plugins>
